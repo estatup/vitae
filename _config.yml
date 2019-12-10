@@ -27,8 +27,6 @@ address:
   street: Rua Cel. Francisco Heráclito dos Santos, 100
   postcode: 81531-980 
   city: Curitiba - PR
-  country: United Kingdom
-
 
 # needed for travis-ci build
 exclude: [vendor]
