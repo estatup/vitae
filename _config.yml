@@ -30,3 +30,4 @@ address:
 
 # needed for travis-ci build
 exclude: [vendor]
+ 
