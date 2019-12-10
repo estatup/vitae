@@ -14,23 +14,21 @@ author: Fábio Madeira
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Eduardo's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
+title: Eduardo Vargas Ferreira
+name: Eduardo Vargas Ferreira
+email: e.ferreira@ufpr.br
+email_full: mailto:e.ferreira@ufpr.br
 website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+website_full: https://estatup.github.io/sustain
+tel:  +55 (41) 3361-3141 
+tel_full: tel: +55 (41) 3361-3141 
+google_maps: 'https://www.google.com/maps/place/Setor+de+Exatas+UFPR/@-25.4501079,-49.2330803,17z/data=!3m1!4b1!4m5!3m4!1s0x94dce50fe3500deb:0xa70fde7b77c59935!8m2!3d-25.4501128!4d-49.2308863'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
+  street: Rua Cel. Francisco Heráclito dos Santos, 100
+  postcode: 81531-980 
+  city: Curitiba - PR
   country: United Kingdom
-google_analytics: UA-69300817-1
+
 
 # needed for travis-ci build
 exclude: [vendor]
