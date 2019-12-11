@@ -14,12 +14,8 @@ author: Fábio Madeira
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Eduardo Vargas Ferreira
-name: Eduardo Vargas Ferreira
 email: e.ferreira@ufpr.br
 email_full: mailto:e.ferreira@ufpr.br
-website: github.io/sustain
-website_full: https://estatup.github.io/sustain
 address:
   street: Rua Cel. Francisco Heráclito dos Santos, 100
   postcode: 81531-980 
